@@ -1,0 +1,15 @@
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\BankException_Case_Study.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\BankException_Case_Study.AssemblyInfoInputs.cache
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\BankException_Case_Study.AssemblyInfo.cs
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\BankException_Case_Study.csproj.CoreCompileInputs.cache
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\BankException_Case_Study.sourcelink.json
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\bin\Debug\net10.0\BankException_Case_Study.exe
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\bin\Debug\net10.0\BankException_Case_Study.deps.json
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\bin\Debug\net10.0\BankException_Case_Study.runtimeconfig.json
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\bin\Debug\net10.0\BankException_Case_Study.dll
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\bin\Debug\net10.0\BankException_Case_Study.pdb
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\BankException_Case_Study.dll
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\refint\BankException_Case_Study.dll
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\BankException_Case_Study.pdb
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\BankException_Case_Study.genruntimeconfig.cache
+D:\Wipro_Training_VSCode\Day5_dp_Training\BankException_Case_Study\obj\Debug\net10.0\ref\BankException_Case_Study.dll

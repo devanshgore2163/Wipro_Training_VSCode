@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using BankingApp.Services;
+
+class Program
+{
+    static void Main()
+    {
+        TransactionHandler handler = new TransactionHandler();
+
+        Console.Write("Enter transfer amount: ");
+        decimal amount = Convert.ToDecimal(Console.ReadLine());
+
+        handler.Transfer(amount);
+    }
+}
