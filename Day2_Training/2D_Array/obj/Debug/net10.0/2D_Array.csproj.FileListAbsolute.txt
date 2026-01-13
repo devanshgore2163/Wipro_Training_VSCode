@@ -1,0 +1,15 @@
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\bin\Debug\net10.0\2D_Array.exe
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\bin\Debug\net10.0\2D_Array.deps.json
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\bin\Debug\net10.0\2D_Array.runtimeconfig.json
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\bin\Debug\net10.0\2D_Array.dll
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\bin\Debug\net10.0\2D_Array.pdb
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\2D_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\2D_Array.AssemblyInfoInputs.cache
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\2D_Array.AssemblyInfo.cs
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\2D_Array.csproj.CoreCompileInputs.cache
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\2D_Array.sourcelink.json
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\2D_Array.dll
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\refint\2D_Array.dll
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\2D_Array.pdb
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\2D_Array.genruntimeconfig.cache
+D:\Wipro_Training_VSCode\Day2_Training\2D_Array\obj\Debug\net10.0\ref\2D_Array.dll
