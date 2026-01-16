@@ -1,0 +1,15 @@
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\bin\Debug\net10.0\Indexers_CaseStudy1.exe
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\bin\Debug\net10.0\Indexers_CaseStudy1.deps.json
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\bin\Debug\net10.0\Indexers_CaseStudy1.runtimeconfig.json
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\bin\Debug\net10.0\Indexers_CaseStudy1.dll
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\bin\Debug\net10.0\Indexers_CaseStudy1.pdb
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\Indexers_CaseStudy1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\Indexers_CaseStudy1.AssemblyInfoInputs.cache
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\Indexers_CaseStudy1.AssemblyInfo.cs
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\Indexers_CaseStudy1.csproj.CoreCompileInputs.cache
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\Indexers_CaseStudy1.sourcelink.json
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\Indexers_CaseStudy1.dll
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\refint\Indexers_CaseStudy1.dll
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\Indexers_CaseStudy1.pdb
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\Indexers_CaseStudy1.genruntimeconfig.cache
+D:\Wipro_Training_VSCode\Day8_Training\Indexers_CaseStudy1\obj\Debug\net10.0\ref\Indexers_CaseStudy1.dll
