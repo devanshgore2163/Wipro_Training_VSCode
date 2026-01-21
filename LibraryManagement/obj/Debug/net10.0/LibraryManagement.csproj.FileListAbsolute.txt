@@ -1,0 +1,12 @@
+D:\Wipro_Training_VSCode\LibraryManagement\bin\Debug\net10.0\LibraryManagement.deps.json
+D:\Wipro_Training_VSCode\LibraryManagement\bin\Debug\net10.0\LibraryManagement.dll
+D:\Wipro_Training_VSCode\LibraryManagement\bin\Debug\net10.0\LibraryManagement.pdb
+D:\Wipro_Training_VSCode\LibraryManagement\obj\Debug\net10.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training_VSCode\LibraryManagement\obj\Debug\net10.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\Wipro_Training_VSCode\LibraryManagement\obj\Debug\net10.0\LibraryManagement.AssemblyInfo.cs
+D:\Wipro_Training_VSCode\LibraryManagement\obj\Debug\net10.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Wipro_Training_VSCode\LibraryManagement\obj\Debug\net10.0\LibraryManagement.sourcelink.json
+D:\Wipro_Training_VSCode\LibraryManagement\obj\Debug\net10.0\LibraryManagement.dll
+D:\Wipro_Training_VSCode\LibraryManagement\obj\Debug\net10.0\refint\LibraryManagement.dll
+D:\Wipro_Training_VSCode\LibraryManagement\obj\Debug\net10.0\LibraryManagement.pdb
+D:\Wipro_Training_VSCode\LibraryManagement\obj\Debug\net10.0\ref\LibraryManagement.dll

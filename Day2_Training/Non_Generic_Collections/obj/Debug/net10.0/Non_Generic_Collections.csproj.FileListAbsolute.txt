@@ -1,0 +1,15 @@
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\bin\Debug\net10.0\Non_Generic_Collections.exe
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\bin\Debug\net10.0\Non_Generic_Collections.deps.json
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\bin\Debug\net10.0\Non_Generic_Collections.runtimeconfig.json
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\bin\Debug\net10.0\Non_Generic_Collections.dll
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\bin\Debug\net10.0\Non_Generic_Collections.pdb
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\Non_Generic_Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\Non_Generic_Collections.AssemblyInfoInputs.cache
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\Non_Generic_Collections.AssemblyInfo.cs
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\Non_Generic_Collections.csproj.CoreCompileInputs.cache
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\Non_Generic_Collections.sourcelink.json
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\Non_Generic_Collections.dll
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\refint\Non_Generic_Collections.dll
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\Non_Generic_Collections.pdb
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\Non_Generic_Collections.genruntimeconfig.cache
+D:\Wipro_Training_VSCode\Day2_Training\Non_Generic_Collections\obj\Debug\net10.0\ref\Non_Generic_Collections.dll
